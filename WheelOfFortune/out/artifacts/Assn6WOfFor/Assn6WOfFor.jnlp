@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Assn6WOfFor.jnlp">
+    <information>
+        <title>Wheel Of Fortune</title>
+        <vendor>Unknown</vendor>
+        <description>none</description>
+        <offline-allowed/>
+    </information>
+    <update check="background"/>
+    <resources>
+        <j2se version="10.0.2+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="Assn6WOfFor.jar" size="328489" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="600" height="400" main-class="main" name="main"/>
+</jnlp>
+
